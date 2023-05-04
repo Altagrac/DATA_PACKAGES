@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: codes-pkges
+Version: 0.0.1
+Summary: Contains usuals functions for data analyze
+Home-page: https://github.com/Altagrac/DATA_PACKAGES
+Author: Esperance Asngar
+Author-email: hoperancy@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intend Audience :: Education
+Classifier: Licence :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
