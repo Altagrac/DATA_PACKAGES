@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
     ## -- function to print dataset shape: --
 
-def data_shape(df):
+def df_shape(df):
     print("This dataset contains:")
     # Nombers of rows :
     print(f"--> {df.shape[0]} lignes")
